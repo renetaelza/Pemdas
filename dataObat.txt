@@ -1,0 +1,4 @@
+001;Bodrex;15 oktober 2020;20 mei 2021;A003;12500;36
+002;Diapet;20 Maret 2020;25 November 2023;A001;2500;44
+003;Betadine;3 Oktober 2020;5 November 2022;A002;9000;30
+004;Antimo;18 Agustus 2021;8 Mei 2023;A002;1500;37
